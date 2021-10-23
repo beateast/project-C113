@@ -1,0 +1,12 @@
+body
+{
+    text-align: center;
+}
+.text-capitalize:hover
+{
+    background-color: aqua;
+}
+.btn-warning:hover
+{
+    background-color: blueviolet;
+}
